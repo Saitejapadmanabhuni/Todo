@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>850450528914-23s9hfs88eogtr2uc9nuv85b1nnbhgnb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850450528914-23s9hfs88eogtr2uc9nuv85b1nnbhgnb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>850450528914-00orp5v8e47ghc3dla4pdlprenq7ob3l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUdYk8i4ii4Y3KMfsMab0ylJE6Bj_HY-8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850450528914</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.car</string>
+	<key>PROJECT_ID</key>
+	<string>elearninf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elearninf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850450528914:ios:8e5c80ac1347257775c44b</string>
+	<key>DATABASE_URL</key>
+	<string>https://elearninf-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
